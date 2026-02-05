@@ -1,0 +1,34 @@
+body {
+    background-color: cadetblue
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color:darkblue;
+    border: 5px dotted black;
+}
+.nav{
+    list-style: none;
+    text-align: center;
+}
+
+.nav{
+    display:inline;
+    margin-right: 20px;
+}
+
+.div-test{
+    background-color:purple;
+    text-align:center;
+    color:white;
+}
+
+.span1{
+    font-size: 30px;
+}
+
+.span2{
+    font-size: 10px;
+}

@@ -1,0 +1,82 @@
+body {
+    background-color: plum
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color:rgb(252, 252, 143);
+    border: 5px dotted black;
+}
+.nav{
+    list-style: none;
+    text-align: center;
+}
+
+.nav{
+    display:inline;
+    margin-right: 20px;
+}
+
+.div-test{
+    background-color:rgb(46, 5, 46);
+    text-align:center;
+    color:white;
+}
+
+.div-test1{
+    background-color:purple;
+    text-align:center;
+    color:white;
+}
+
+.div-test2{
+    background-color:yellow;
+    text-align:center;
+    color:black;
+}
+
+.div-test3{
+    background-color:turquoise;
+    text-align:center;
+    color:black;
+}
+
+.div-test4{
+    background-color:navy;
+    text-align:center;
+    color:white;
+}
+
+.div-test5{
+    background-color:beige;
+    text-align:center;
+    color:black;
+}
+
+.div-test6{
+    background-color:lightpink;
+    text-align:center;
+    color:black;
+}
+
+.div-test7{
+    background-color:maroon;
+    text-align:center;
+    color:white;
+}
+
+.div-test8{
+    background-color:white;
+    text-align:center;
+    color:black;
+}
+
+.span1{
+    font-size: 30px;
+}
+
+.span2{
+    font-size: 30px;
+}
