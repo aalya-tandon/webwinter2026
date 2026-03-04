@@ -1,0 +1,85 @@
+body {
+    background-color:rgb(251,194,227)
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color:rgb(252, 252, 143);
+    border: 5px dotted black;
+}
+.nav{
+    list-style: none;
+    text-align: center;
+}
+
+.nav{
+    display:inline;
+    margin-right: 20px;
+}
+
+.div-test{
+    background-color:lightgreen;
+    text-align:center;
+    color:white;
+}
+
+.div-test1{
+    background-color:rgb(252, 252, 143);
+    text-align:center;
+    color:white;
+}
+
+.div-test2{
+    background-color:lightgreen;
+    text-align:center;
+    color:black;
+}
+
+.div-test3{
+    background-color:black;
+    text-align:center;
+    color:white;
+}
+
+.div-test4{
+    background-color:lightskyblue;
+    text-align:center;
+    color:black;
+}
+
+.div-test5{
+    background-color:maroon;
+    text-align:center;
+    color:white;
+}
+
+.div-test6{
+    background-color:lavender;
+    text-align:center;
+    color:black;
+}
+
+.div-test7{
+    background-color:white;
+    text-align:center;
+    color:black;
+}
+
+.div-test8{
+    background-color:lightgreen;
+    text-align:center;
+    color:black;
+}
+
+.div-test9{
+    background-color:lightgoldenrodyellow;
+    text-align:center;
+    color:black;
+}
+
+
+.span1{
+    font-size: 20px;
+}
