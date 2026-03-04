@@ -8,5 +8,5 @@ these are all my projects from my web class
   <li><a href="midterm">Midterm</a></li>
   <li><a href="js_demo">JS demo</a></li>
   <li><a href="magic_8_ball">Magic 8-ball</a></li>
-  <li><a href="final">Final</a></li>
+  <li><a href="web-final">Final</a></li>
 </ul>
